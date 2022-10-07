@@ -7,4 +7,4 @@
 #### ○ Anıl SEZER / https://github.com/anilsezer
 #### ○ Fatih TARIM / https://github.com/fatihtarim1997
 #### ○ Gorkem SAKALAK / https://github.com/Halfgork
-#### ○ Mahmut Huadi GOL / https://github.com/trombonist76
+#### ○ Mahmut Hudai GOL / https://github.com/trombonist76
