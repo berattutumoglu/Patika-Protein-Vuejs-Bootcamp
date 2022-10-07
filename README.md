@@ -1,1 +1,1 @@
-# patika-protein-vuejs-bootcamp-assignments
+# Patika.dev & protein' Vue.js Bootcamp All Assignments.
