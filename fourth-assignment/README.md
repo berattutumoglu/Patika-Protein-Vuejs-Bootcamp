@@ -4,7 +4,8 @@
 
 #### ○ Abdullah KUS / https://github.com/abdullahkus
 #### ○ Alican Berat TUTUMOGLU / https://github.com/berattutumoglu
-#### ○ İlker DURMAZ / https://github.com/ilkerdurmaz
+#### ○ Ilker DURMAZ / https://github.com/ilkerdurmaz
+#
 
 # Cookie Banner Project
 
