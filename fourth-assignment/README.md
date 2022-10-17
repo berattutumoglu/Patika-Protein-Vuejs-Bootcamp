@@ -1,3 +1,11 @@
+## This project is a group assignment.
+
+### Contributers
+
+#### ○ Abdullah KUS / https://github.com/abdullahkus
+#### ○ Alican Berat TUTUMOGLU / https://github.com/berattutumoglu
+#### ○ İlker DURMAZ / https://github.com/ilkerdurmaz
+
 # Cookie Banner Project
 
 This is a Vue.js cookie banner component for informing users about cookie use and, if necessary, obtaining consent for cookie use. Accepted or rejected cookie settings are saved in localStorage.
